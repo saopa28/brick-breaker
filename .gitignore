@@ -1,0 +1,11 @@
+# Build output
+out/
+build/
+*.class
+
+# IntelliJ per-user files
+.idea/workspace.xml
+.idea/shelf/
+
+# Saved games
+*.mdds
